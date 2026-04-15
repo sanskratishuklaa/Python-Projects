@@ -1,0 +1,18 @@
+'''
+Rohan is learning how to build simple games using the scratch editor. 
+He creates a sprites and names it robo. 
+Robo is placed at the centre of the stage and is programmed to perform actions repeatedly while keeping track of numbers on the screen.
+Rohan wants robo to count actions and update the score while the program runs. For this purpose, he creates two variables: Counter, Score
+Understand the Program:
+
+From the Scratch blocks:
+
+Set counter = 0
+Set score = 20
+Repeat 5 times
+change counter by +1
+change score by +4
+Repeat 3 times
+change counter by +1
+change score by -6
+'''
